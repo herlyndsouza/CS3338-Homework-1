@@ -1,3 +1,15 @@
+commit 48ac4054732286b73fd53e18a33bf019cb406397
+Author: herlyndsouza <hdsouza@calstatela.edu>
+Date:   Sat Feb 7 17:49:23 2026 -0800
+
+    Complete About Me and groupmate sections
+
+commit cd7e092d4d5ed372118fab0b0bb3b4ca2fb90a69
+Author: herlyndsouza <hdsouza@calstatela.edu>
+Date:   Sat Feb 7 17:29:56 2026 -0800
+
+    Add git_log.txt and repo-location.txt for submission
+
 commit 6d03950b0ed88de269bf8e20a048ec97b0848b40
 Author: herlyndsouza <hdsouza@calstatela.edu>
 Date:   Sat Feb 7 17:27:54 2026 -0800
